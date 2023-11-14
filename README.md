@@ -1,6 +1,6 @@
-#Introduction to HTML and CSS
+# Introduction to HTML and CSS
 
-###[Day 1](day_1/)
+### [Day 1](day_1/)
 - Front end overview
 - HTML tags
 - HTML structure
@@ -9,7 +9,7 @@
 - Box model
 - Positioning
 
-###[Day 2](day_2/)
+### [Day 2](day_2/)
 - Alignment
 - Grid layout
 - Introduction to Bootstrap framework
